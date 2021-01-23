@@ -1,0 +1,1 @@
+printf("The array is %d\n", ptr[5]);
